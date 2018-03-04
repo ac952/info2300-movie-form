@@ -19,10 +19,10 @@ My collection will include a list of movies that the user wants to see. My colum
 ## 3. Sketch & Wireframe
 
 [Insert your 1 sketch here.]
-![](Scan.jpg)
+![](Scan.jpeg)
 
 [Insert your 1 wireframe here.]
-![](Scan1.jpg)
+![](Scan1.jpeg)
 
 [Explain why your design would be effective for your persona. 1-3 sentences.]
 My sketches meet the need of my personal because it is simple and intuitive. Since Abby is risk averse and has low confidence about doing unfamiliar tasks, I decided to place the search bar at the top of the home page only because it contains the list. I will also include a header (Results for "PG") so the user knows that this is the filtered list.
