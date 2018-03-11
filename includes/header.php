@@ -13,10 +13,10 @@
       }
       ?>
       <!-- <form> -->
-        <div id="search">
+        <!-- <div id="search">
           <input type="search">
-          <button>Search</button>
-        </div>
+          <button>SEARCH</button>
+        </div> -->
       <!-- </form> -->
     </ul>
   </nav>
