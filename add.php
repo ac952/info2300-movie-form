@@ -86,7 +86,7 @@ function getRecord($record) {
   <?php
   // Write out any messages to the user.
   foreach ($messages as $message) {
-    echo "<p><strong>" . htmlspecialchars($message) . "</strong></p>\n";
+    echo "<p id='reviewsuccess'><strong>" . htmlspecialchars($message) . "</strong></p>\n";
   }
   ?>
 
